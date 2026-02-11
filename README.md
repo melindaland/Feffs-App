@@ -1,7 +1,5 @@
 # FEFFS App 2026
 
-**FEFFS App** est une application mobile cross-platform (iOS & Android) développée pour le **Festival Européen du Film Fantastique de Strasbourg**. 
-
 Ce projet a été réalisé dans le cadre d'un projet universitaire. L'objectif est d'offrir aux festivaliers une expérience immersive et pratique pour gérer leur festival directement depuis leur smartphone.
 
 ---
